@@ -1,0 +1,103 @@
+Order,Family,Species,Voucher.Data,X1kP_Sample,Source,Note
+Acorales,Acoraceae,Acorus gramineus,Chase 18000 (K),P02-02A,Angiosperms353,
+Alismatales,Butomaceae,Butomus umbellatus,Chase 12016 (K),P01-05A,Angiosperms353,
+Amborellales,Amborellaceae,Amborella trichopoda,Qiu 97123 (NCU),P01-04H,Angiosperms353,
+Apiales,Araliaceae,Aralia cordata,RBGKew Living Collection  2004-3246,P01-06G,Angiosperms353,
+Aquifoliales,Cardiopteridaceae,Gonocaryum litorale,Chase 1294 (K),P02-01B,Angiosperms353,
+Arecales,Arecaceae,Nypa fruticans,Chase 34462 K,NSPR,1kp,
+Asparagales,Blandfordiaceae,Blandfordia punicea,COLT 69 (K),P03-09A,Angiosperms353,
+Asterales,Calyceraceae,Acicarpha tribuloides,2002_China,http://sftp.kew.org/pub/paftol/current_release/fasta/by_recovery/INSDC.ERR4180184.Acicarpha_tribuloides.a353.fasta,PAFTOL,"add. 21; PAFTOL, not on 1kp"
+Asterales,Campanulaceae,Lobelia siphilitica,132742 (ALTA),IZLO,1kp,"big clade, adding one extra"
+Asterales,Asteraceae,Echinops sphaerocephalus,Garnatje s.n. (BC),P02-08H,Angiosperms353,
+Austrobaileyales,Trimeniaceae,Trimenia moorei,Chase 455 (K),P01-01C,Angiosperms353,
+Berberidopsidales,Berberidopsidaceae,Berberidopsis beckleri,Chase 33137 (K),P01-07G,Angiosperms353,
+Boraginales,Boraginaceae,Wigandia urens,RBGKew Living Collection  2003-2460,P01-07D,Angiosperms353,
+Brassicales,Tovariaceae,Tovaria pendula,Pennington 17749 (K),P03-06C,Angiosperms353,
+Brassicales,Brassicaceae,Arabis alpina,PPE-2012-1000-0003 (UMO),TZWR,1kp,"big clade, adding one extra"
+Bruniales,Bruniaceae,Berzelia lanuginosa,Chase 34475 (K),P01-08F,Angiosperms353,
+Buxales,Buxaceae,Buxus sempervirens,132722 (ALTA),IWMW,1kp,
+Canellales,Winteraceae,Drimys winteri,Soltis and Miles 2843,WKSU,1kp,
+Caryophyllales,Phytolaccaceae,Phytolacca americana,Soltis and Miles 2759,BKQU,1kp,add. 26
+Caryophyllales,Sarcobataceae,Sarcobatus vermiculatus,,GIWN,1kp,add. 26
+Caryophyllales,Nepenthaceae,Nepenthes mirabilis,RBGKew Living Collection 1981-5655,P03-05C,Angiosperms353,
+Celastrales,Lepidobotryaceae,Ruptiliocarpon caracolito,Pennington 631 (K),P01-03A,Angiosperms353,
+Ceratophyllales,Ceratophyllaceae,Ceratophyllum demersum,Sheahan s.n. (K),cerato_combined,Angiosperms353,
+Chloranthales,Chloranthaceae,Sarcandra glabra,T. Chen et. al. 081210-04,OSHQ,1kp,
+Commelinales,Haemodoraceae,Anigozanthos bicolor,Smith 239 (K),P01-09E,Angiosperms353,
+Cornales,Cornaceae,Cornus florida,Soltis and Miles 2781,BFJL,1kp,
+Cornales,Hydrangeaceae,Hydrangea quercifolia,Soltis and Miles 2854,ZETY,1kp,add. 25; Cornaceae already sampled
+Crossosomatales,Staphyleaceae,Staphylea trifolia,JLM2013-66 (GA),PTLU,1kp,"add. 29; No Turpinia (preferably), Staphylea  chosen"
+Crossosomatales,Crossosomataceae,Crossosoma californicum,Beier s.n. (UPS),P02-01D,Angiosperms353,
+Cucurbitales,Cucurbitaceae,Thladiantha villosula,Chase 34473 K,AXAF,1kp,
+Cupressales,Cupressaceae,Cupressus dupreziana,JLM2013-33 (GA),QNGJ,1kp,
+Cycadales,Stangeriaceae,Stangeria eriopus,Montgomery Botanical Center (#3),KAWQ,1kp,
+Dilleniales,Dilleniaceae,Curatella americana,Chase 973 (K),P03-01B,Angiosperms353,
+Dioscoreales,Dioscoreaceae,Dioscorea calcicola,Wilkin 814 (K),P03-02A,Angiosperms353,
+Dipsacales,Caprifoliaceae,Lonicera japonica,Soltis and Miles 2929,GSZA,1kp,
+Ericales,Cyrillaceae,Cyrilla racemiflora,Chase 2531 (K),P01-03C,Angiosperms353,
+Escalloniales,Escalloniaceae,Forgesia racemosa,REU 10015 (REU),P03-03D,Angiosperms353,
+Fabales,Polygalaceae,Polygala lutea,JLM2013-59 (GA),OHAE,1kp,add. 28
+Fabales,Fabaceae,Gilbertiodendron ecoukense,M'Boungou 144 (K),P03-10G,Angiosperms353,
+Fagales,Myricaceae,Comptonia peregrina,Chase 14586 (K),P02-01G,Angiosperms353,
+Fagales,Nothofagaceae,Nothofagus obliqua,Chase 33143 ,TJLC,1kp,
+Garryales,Garryaceae,Aucuba japonica,DWS NY 994/96,GIPR,1kp,
+Gentianales,Rubiaceae,Morinda citrifolia,Chase 34483 K,ULGV,1kp,"add. 23; represent Luculia, Mitchella? No exact genus sampled"
+Gentianales,Rubiaceae,Galium boreale,132732 (ALTA),WQRD,1kp,"add. 23; represent Luculia, Mitchella? No exact genus sampled"
+Gentianales,Gelsemiaceae,Pteleocarpa malaccensis,FRI 52109 (K),P03-09E,Angiosperms353,
+Geraniales,Geraniaceae,Geranium carolinianum,Soltis and Miles 2919,VKGP,1kp,
+Ginkgoales,Ginkgoaceae,Ginkgo biloba,in preparation,SGTW,1kp,
+Gnetales,Gnetaceae,Gnetum montanum,in preparation,GTHK,1kp,
+Gunnerales,Gunneraceae,Gunnera manicata,Lewis 2282008 (K),gunnera_combined,Angiosperms353,
+Huerteales,Gerrardinaceae,Gerrardina foliosa,MPU 21 (NBG),P03-03G,Angiosperms353,
+Lamiales,Bignoniaceae,Tabebuia umbellata,Soltis and Miles 2926,UTQR,1kp,"add. 24; reprsent Catalpa, Campsis, no eact genus taxa sampled"
+Lamiales,Acanthaceae,Ruellia brittoniana,Soltis and Miles 2962,AYIY,1kp,"add. 24; reprsent Catalpa, Campsis, no eact genus taxa sampled"
+Lamiales,Lamiaceae,Teucrium chamaedrys,Grant Godden GGT3,LRRR,1kp,
+Laurales,Lauraceae,Lindera benzoin,Soltis & Miles 2968,KAYP,1kp,
+Liliales,Smilacaceae,Smilax bona-nox,,MWYQ,1kp,add. 34; no Ripogonaceae
+Liliales,Liliaceae,Lilium sargentiae,Chase 34452 K,THEW,1kp,add. 34; no Philesiaceae
+Liliales,Liliaceae,Fritillaria davidii,RBGKew Living Collection  2004-3461,P02-03F,Angiosperms353,
+Magnoliales,Magnoliaceae,Magnolia acuminata,Larridon 12334 (K),P02-06G,Angiosperms353,
+Malpighiales,Euphorbiaceae,Euphorbia pekinensis,Chase 34441 K,PXYR,1kp,"big clade, adding one extra"
+Malpighiales,Salicaceae,Salix sachalinensis,J. Cooke (no voucher),TDTF,1kp,"big clade, adding one extra"
+Malpighiales,Humiriaceae,Duckesia verrucosa,"Vintencini 3.401 (NA);RBGKew DNA Bank,  1037",P03-01C,Angiosperms353,
+Malvales,Malvaceae,Hibiscus cannabinus,132734 (ALTA),OLXF,1kp,"big clade, adding one extra"
+Malvales,Dipterocarpaceae,Upuna borneensis,FRI 18195 (K),P03-09F,Angiosperms353,
+Metteniusales,Metteniusaceae,Metteniusa,Betancur 10386 (K),P03-02H,Angiosperms353,
+Myrtales,Combretaceae,Terminalia neotaliala,Chase 34481 K,AJJE,1kp,add. 30
+Myrtales,Myrtaceae,Syzygium paniculatum,Chase 34478 K,FGDU,1kp,
+Myrtales,Onagraceae,Oenothera nana,M. Johnson 0233,CJGZ,1kp,add. 30
+Nymphaeales,Nymphaeaceae,Nuphar advena,Soltis and Miles 2783,WTKZ,1kp,
+Oxalidales,Brunelliaceae,Brunellia mexicana,Salazar s.n. (MEXU),P01-05H,Angiosperms353,
+Pandanales,Cyclanthaceae,Ludovia sp.,JLM2013-50 (GA),VVVV,1kp,add. 35; no Calycanthus
+Pandanales,Stemonaceae,Croomia pauciflora,"Chase 399 (K);Cultivated  J.Wurdack, AL, DeKalb Co",P01-01B,Angiosperms353,
+Paracryphiales,Paracryphiaceae,Quintinia oreophila,Pillon 379 (NOU),P03-03E,Angiosperms353,
+Petrosaviales,Petrosaviaceae,Japonolirion osense,Chase 38664 (K),P01-11C,Angiosperms353,
+Picramniales,Picramniaceae,Alvaradoa amorphoides,Castillo 2787 (K),P03-08H,Angiosperms353,
+Pinales,Pinaceae,Pinus ponderosa,Stewart and Burris,JBND,1kp,
+Piperales,Aristolochiaceae,Aristolochia elegans,Soltis and Miles 2754,PAWA,1kp,"add. 36; no Hydnoroideae, parastic"
+Piperales,Piperaceae,Piper auritum,Soltis and Miles 2794,MUNP,1kp,
+Poales,Poaceae,Deschampsia cespitosa,Chase 34433 K,IADP,1kp,add. 33
+Poales,Poaceae,Panicum miliaceum,Kellogg PI536011 (MO),SOHV,1kp,add. 33; no Oryzoideae; whole genome?
+Poales,Typhaceae,Typha angustifolia,Chase 34436 K,PPQR,1kp,
+Proteales,Platanaceae,Platanus occidentalis,Soltis and Miles 2757,VQFW,1kp,
+Ranunculales,Papaveraceae,Corydalis linstowiana,Chase 34442 K,ZGQD,1kp,
+Rosales,Elaeagnaceae,Elaeagnus pungens,Soltis and Miles 2951,RBYC,1kp,add. 27; Ceanothus not sampled
+Rosales,Rhamnaceae,Rhamnus caroliniana,Soltis and Miles 2952,WVEF,1kp,add. 27; Ceanothus not sampled
+Rosales,Barbeyaceae,Barbeya oleoides,Friis 15068 (K),P02-12A,Angiosperms353,
+Santalales,Olacaceae,Ximenia americana,Soltis and Miles 2949,XKPS,1kp,
+Sapindales,Sapindaceae,Dodonaea viscosa,Strijk 203 (UPS),P03-08D,Angiosperms353,
+Sapindales,Anacardiaceae,Litchi chinensis,T. Chen et. al. 2010090807,WAXR,1kp,"big clade, adding one extra"
+Saxifragales,Iteaceae,Itea virginica,Soltis and Miles 2760,UWFU,1kp,add 32; Penthorum not sampled; close relatives chosen
+Saxifragales,Haloragaceae,Myriophyllum aquaticum,Soltis and Miles 2788,IUSR,1kp,
+Saxifragales,Saxifragaceae,Saxifraga fortunei,RBGKew Living Collection  1982-689,P02-08B,Angiosperms353,
+Solanales,Solanaceae,Solanum sisymbriifolium,Chase 34445 K,NMDZ,1kp,add. 22
+Solanales,Solanaceae,Nicotiana heterantha,Chase 68222 (K),P02-06B,Angiosperms353,
+Trochodendrales,Trochodendraceae,Trochodendron aralioides,DWS NY 334/82A,SWOH,1kp,
+Vahliales,Vahliaceae,Vahlia capensis,Chase 5885 (K),P01-04D,Angiosperms353,
+Vitales,Vitaceae,Cissus quadrangularis,Chase 34459 K,BGZG,1kp,add. 31; no Leea
+Vitales,Vitaceae,Cyphostemma mappia,Page 11 (MAU),P01-12D,Angiosperms353,
+Zingiberales,Strelitziaceae,Strelitzia reginae,Chase 34470 K,UOEL,1kp,
+Zygophyllales,Krameriaceae,Krameria lanceolata,Soltis and Miles 2991,ZHMB,1kp,
+Icacinales,Icacinaceae,Pyrenacantha malvifolia,Chase 33151 K,QZZU,1kp,
+Lycophytes,Isoetaceae,Isoetes tegetiformans,JLM2013-47 (GA),PKOX,1kp;OG,
+Lycophytes,Selaginellaceae,Selaginella apoda,Rothfels 4118 (DUKE),LGDQ,1kp;OG,
