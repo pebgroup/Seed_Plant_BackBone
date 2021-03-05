@@ -1,6 +1,8 @@
 # ReadMe
 
-This page describes how each script in `scripts` folder is used to to build the species tree of the seed plant backbone from sequence data to the tree.  
+A phylogeny for seed plants was estimated that incorporated at least one sample for each order. The final phylogeny comprised 103 tips, [101 species](./data/BackBone_sampling101.csv) representing 69 orders plus two Lycophyte outgroups (_Isoetes tegetiformans_ and _Selaginella apoda_).  
+
+The Angiosperms353 exon sequences of 42 samples were collected from Johnson et al. [(2019)](https://academic.oup.com/sysbio/article/68/4/594/5237557) and the rest were using [`blastn`](./scripts/blastn_353ref.sh) extracted the SOAPdenovo assemblies of [One Thousand Plants Transcriptome Initiative (1KP) public database](http://www.onekp.com/public_data.html) against the Angiosperms353 probe sequences based a similarity threshold of `e = 1e-5` from Johnson et al. [(2019)](https://academic.oup.com/sysbio/article/68/4/594/5237557). The resultant sequence data gathered and combined based on each gene id, and the matrix was aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) and cleaned using [trimAl](https://vicfero.github.io/trimal/) with portions of gaps potentially introduced by 1KP data and the `-cons 60` option (Salvador et al. 2009) (see script [here](./scripts/mafft_clean_trimal.sbatch)). Two genes [(`g6514` and `g6886`)](./data/gene_undersampled) were excluded because of low taxon coverage (< 20%), hence 351 genes remained.  
 
   All aligned and cleaned sequences are located at `./data/mafft_clean_trimal_aln/`. `raxml-ng_launch.sh` launch either `raxml-ng1T.sbatch` (one thread) or `raxml-ng-NT.sbatch` (n threads) to run analysis using [RAxML Next Generation](https://github.com/amkozlov/raxml-ng), depends on the alignment size and computation resource request (if more threads or memory needed, then it will use `raxml-ng-NT.sbatch` submit a job to SLURM).  
 
